@@ -12,7 +12,7 @@
 ### 🏆 个人成就勋章 (My Trophies)
 <!-- 换用了更稳定的全平面化样式，避免加载失败 -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChungZH&theme=flat&column=7&margin-w=15&no-bg=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jie-Jie86&theme=flat&column=7&margin-w=15&no-bg=true&hide_border=true" width="100%" />
 </a>
 
 ---
