@@ -30,7 +30,7 @@
 ### 📈 灵动贡献图 (Contribution Snake)
 <!-- 这是一个“伪动态”方案：即便Action还没跑完，也能显示一个精美的动画 -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jie-Jie86/Jie-Jie86/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jie-Jie86/Jie-Jie86/output/github-snake.svg">
 </picture>
 
 <br/>
