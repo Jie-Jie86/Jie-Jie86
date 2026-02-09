@@ -12,7 +12,26 @@
 ### 🛠️ 核心技能栈 (Tech Stack)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,linux,arch,kde,vscode,github,docker,cmake,md,bash,py" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,jenkins,rabbitmq,vite,docker" />
+  </a>
+</p>
+
+---
+###  📚 常用语言 (Languages)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,vue,lua,python,js" />
+  </a>
+</p>
+
+---
+
+### 💻 环境/工具 (Environment/Tools) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <br/>
+    <img src="https://skillicons.dev/icons?i=idea,git,vscode" />
   </a>
 </p>
 
@@ -20,9 +39,9 @@
 
 ### 📬 保持联系 (Contact Me)
 <p align="center">
-<a href="https://blog.chungzh.cn"><img src="https://img.shields.io/badge/Blog-个人博客-0078D4?style=for-the-badge&logo=Hugo&logoColor=white"></a>
-<a href="https://t.me/skyporker_channel"><img src="https://img.shields.io/badge/Telegram-频道-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:chungzh07@gmail.com"><img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://baidu.com"><img src="https://img.shields.io/badge/Blog-个人博客-0078D4?style=for-the-badge&logo=Hugo&logoColor=white"></a>
+<a href="https://baidu.com"><img src="https://img.shields.io/badge/Telegram-频道-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://baidu.com"><img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
