@@ -5,7 +5,7 @@
 
 # 🚀 Welcome to My Workspace
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Enthusiast;ISFJ-T+|+The+Defender;Arch+Linux+Enthusiast;A.k.a.+Prof.+%E7%8C%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=600&center=true&random=true&width=435&lines=%7C%7C%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3DNULL%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%7C%7C)](https://git.io/typing-svg)
 
 ---
 
