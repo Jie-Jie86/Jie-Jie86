@@ -9,35 +9,6 @@
 
 ---
 
-### 🏆 个人成就勋章 (My Trophies)
-<!-- 换用了更稳定的全平面化样式，避免加载失败 -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jie-Jie86&theme=flat&column=7&margin-w=15&no-bg=true&hide_border=true" width="100%" />
-</a>
-
----
-
-### 📊 开发者综合看板 (Tech Dashboard)
-<!-- 采用了 GitHub Metrics 动态生成，这个比原来的 Stats 更稳且信息更全 -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/ChungZH?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FShanghai" width="100%" alt="Metrics" />
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <!-- 备用线路的统计卡片 -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ChungZH&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <!-- 编程语言占比 -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChungZH&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ 核心技能栈 (Tech Stack)
 <p align="center">
   <a href="https://skillicons.dev">
