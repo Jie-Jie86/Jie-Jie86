@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 顶部：极简流光横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Zirnc%20/%20ChungZH&fontSize=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Zirnc%20/%20Jie-Jie86&fontSize=60&animation=fadeIn" width="100%"/>
 
 # 🚀 Welcome to My Workspace
 
@@ -30,9 +30,9 @@
 ### 📈 灵动贡献图 (Contribution Snake)
 <!-- 这是一个“伪动态”方案：即便Action还没跑完，也能显示一个精美的动画 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChungZH/ChungZH/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChungZH/ChungZH/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChungZH/ChungZH/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jie-Jie86/Jie-Jie86/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jie-Jie86/Jie-Jie86/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jie-Jie86/Jie-Jie86/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/>
