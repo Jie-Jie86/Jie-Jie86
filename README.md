@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 顶部：极简流光横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Zirnc%20/%20Jie-Jie86&fontSize=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=杰羯%20/%20Jie-Jie86&fontSize=60&animation=fadeIn" width="100%"/>
 
 # 🚀 Welcome to My Workspace
 
